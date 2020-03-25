@@ -1,0 +1,7 @@
+C:\Users\XPC\Source\Repos\2020-1-NoSql\MongoExample\MongoExample.Modelo\bin\Debug\MongoExample.Modelo.dll
+C:\Users\XPC\Source\Repos\2020-1-NoSql\MongoExample\MongoExample.Modelo\bin\Debug\MongoExample.Modelo.pdb
+C:\Users\XPC\Source\Repos\2020-1-NoSql\MongoExample\MongoExample.Modelo\bin\Debug\MongoDB.Bson.dll
+C:\Users\XPC\Source\Repos\2020-1-NoSql\MongoExample\MongoExample.Modelo\bin\Debug\MongoDB.Bson.xml
+C:\Users\XPC\Source\Repos\2020-1-NoSql\MongoExample\MongoExample.Modelo\obj\Debug\MongoExample.Modelo.csproj.CopyComplete
+C:\Users\XPC\Source\Repos\2020-1-NoSql\MongoExample\MongoExample.Modelo\obj\Debug\MongoExample.Modelo.dll
+C:\Users\XPC\Source\Repos\2020-1-NoSql\MongoExample\MongoExample.Modelo\obj\Debug\MongoExample.Modelo.pdb
